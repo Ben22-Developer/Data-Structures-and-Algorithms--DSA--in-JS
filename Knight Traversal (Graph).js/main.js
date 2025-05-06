@@ -12,3 +12,5 @@ function main () {
 }
 
 main ();
+
+// The codebase logic is for the boards in range 0 - 7 #(x,y) only!
